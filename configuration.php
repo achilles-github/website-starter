@@ -3,7 +3,7 @@
 	$websiteName = "WebsiteName";
 
 	#Development MOOD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-	$domainName = "http://localhost/websites/Website Starter";
+	$domainName = "http://localhost/website-starter";
 	
 	#Domain name
 	#$domainName = "http://$_SERVER[SERVER_NAME]/";
